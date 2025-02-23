@@ -1,0 +1,13 @@
+* 
+
+!java/
+!java/src/
+!java/src/*.java
+
+!c/
+!c/*.c
+
+!python/
+!python/*.py
+
+!.gitignore
